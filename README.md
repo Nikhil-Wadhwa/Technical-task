@@ -27,7 +27,7 @@ The accordingly you will be redirected to Contact US page Or Logout Page.
 initially our html page will look like this:-
 ![image](https://user-images.githubusercontent.com/116154090/196713090-62f05a63-55bb-46f4-b2ba-a8b993e47804.png)
 ![image](https://user-images.githubusercontent.com/116154090/196713141-15b83af8-11d4-46de-9f10-ddac45e36408.png)
-![image](https://user-images.githubusercontent.com/116154090/196713460-fa57678c-0640-4340-9278-21dc493f3dff.png)
+![image](https://user-images.githubusercontent.com/116154090/196714086-049139e1-e7e9-4e0d-95d1-faba87ab7584.png)
 
  
 
